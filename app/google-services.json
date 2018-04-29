@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "879371004177",
+    "firebase_url": "https://messaging-all-the-time.firebaseio.com",
+    "project_id": "messaging-all-the-time",
+    "storage_bucket": "messaging-all-the-time.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879371004177:android:3b9e62bf287b0b57",
+        "android_client_info": {
+          "package_name": "com.example.shrouq.messagingappfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879371004177-qpvbeocvj4b511ohui9e7o1smu59it1j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shrouq.messagingappfirebase",
+            "certificate_hash": "3e2d77fc3483e264bb16336d7df0bfce815826b8"
+          }
+        },
+        {
+          "client_id": "879371004177-u6mssmpts06oa4950ci2jmqf2cdimgqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVuO_GNqu6Xrs7F2-Lw7l2CAT9FWuuAPg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879371004177-u6mssmpts06oa4950ci2jmqf2cdimgqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
